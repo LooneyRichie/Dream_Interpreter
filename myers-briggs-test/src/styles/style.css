@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.question {
+    margin: 20px 0;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px; /* Ensure button text is readable */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+}
+
+form, #result {
+    width: 90%; /* Adjust width for smaller screens */
+    max-width: 600px;
+}
+
+input {
+    font-size: 16px; /* Increase font size for better readability on mobile */
+}
+
+@media (max-width: 600px) {
+    body {
+        margin: 10px; /* Reduce margins on smaller screens */
+    }
+
+    h1 {
+        font-size: 24px; /* Adjust heading size for mobile */
+    }
+
+    button {
+        width: 100%; /* Make the button full-width on mobile */
+    }
+}
