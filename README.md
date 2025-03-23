@@ -1,2 +1,2 @@
 # Dream_Interpreter
-I have an idea to implement many different psychological and mystical features in one convenient app designed to help people cope with stress.
+I have an idea to implement many different psychological and mystical features in one convenient app designed to help people cope with stress. I plan to use Astrology, Numerology, Tarot, Rorschach, Psychology, Dream Analysis, Myer Briggs Personalities...more to come soon. I am welcome to critique, I can't excel without it. Feel free to help, if this ever becomes anything worth anything and you helped me I will honor your work.
